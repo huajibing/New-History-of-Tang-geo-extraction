@@ -189,7 +189,7 @@ Location_Name,Parent_Name,Households,Population,药材,纺织品,矿产/金属,�
 共同出现的物产对按出现的频次排序（前15）：
 ![cooccurrence_top15](cooccurrence_top15.png)
 
-### 任务抽象
+## 任务抽象
 
 根据以上初步数据分析结果，提出以下探索性问题：
 
